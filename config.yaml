@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "McDonaldssvip"
+user_name: "shaoyc9"
 repo_name: "robotics-arxiv-daily"
 show_authors: True
 show_links: True
@@ -30,3 +30,5 @@ keywords:
         filters: ["Robot Reinforcement Learning", "Robotic Reinforcement Learning"]
     "Tactile":
         filters: ["Tactile Sensing", "Tactile Sensing", "Tactile Perception", "Tactile Perception"]
+    "Optimization":
+        filters: [""]
