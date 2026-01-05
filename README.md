@@ -1,4 +1,4 @@
-## Updated on 2025.12.29
+## Updated on 2026.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
